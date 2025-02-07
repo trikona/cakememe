@@ -26,7 +26,8 @@
             }
           },
           "options": {
-            "assets": [],
+            "assets":
+             ["src/_redirects"],
             "index": "src/index.html",
             "browser": "src/main.ts",
             "outputPath": "dist/demo",
